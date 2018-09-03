@@ -13,8 +13,3 @@ body {
     padding-top: 56px;
   }
 }
-
-.col-md-4 {
-  position: fixed;
-  right: 10px;
-}
